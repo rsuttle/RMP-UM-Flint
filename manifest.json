@@ -1,7 +1,7 @@
   {
-    "name": "Getting Started Example",
+    "name": "RateMyProfessor UM-Flint",
     "version": "1.0",
-    "description": "Build an Extension!",
+    "description": "Easily view professor ratings from RMP on class registration pages.",
 	"options_page": "options.html",
     "permissions": ["activeTab","declarativeContent","tabs", "storage","https://www.ratemyprofessors.com/*","https://search-production.ratemyprofessors.com/*"],
     "background": {
